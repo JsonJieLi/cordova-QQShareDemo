@@ -1,0 +1,9 @@
+{
+    "CoreTelephony.framework": 1,
+    "SystemConfiguration.framework": 1,
+    "Security.framework": 1,
+    "libiconv.dylib": 1,
+    "libsqlite3.dylib": 1,
+    "libstdc++.dylib": 1,
+    "libz.dylib": 1
+}
